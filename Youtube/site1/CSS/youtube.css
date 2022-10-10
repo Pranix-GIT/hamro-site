@@ -1,0 +1,34 @@
+p{
+  font-family: Arial;
+}
+.thumbnail {
+width: 300px;
+display: block;
+}
+
+.search {
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 1000000px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.title1 {
+  width: 300px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.user1 {
+  margin-left: 2px;
+  
+}
+
+.preview {
+  display: inline-block;
+  width: 300px;
+  margin-right: 15px;
+  margin-left: 15px;
+  vertical-align: top;
+}
